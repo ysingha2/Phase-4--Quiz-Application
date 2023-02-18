@@ -1,0 +1,44 @@
+[
+  {
+    "question": "Who is the first Indian woman to win an Asian Games gold in 400m run?",
+    "choice1": "M.L. Valsamma",
+    "choice2": "P.T. Usha",
+    "choice3": "Kamaljit Sandhu",
+    "choice4": "K.Malleshwari",
+    "answer": 2
+  },
+  {
+    "question": "With Which of the following sports M Vijayakrishna Memorial Cup is related to ?",
+    "choice1": "Badminton",
+    "choice2": "Table Tennis",
+    "choice3": "Horse Races",
+    "choice4": "Polo",
+    "answer": 3
+  },
+  {
+    "question": "Who won the 2011 Cricket World Cup?",
+    "choice1": "Pakistan",
+    "choice2": "Japan",
+    "choice3": "New Zealand",
+    "choice4": "India",
+    "answer": 4
+  },
+  {
+    "question": "Who has designed the trophy of FIFA Women’s World Cup?",
+    "choice1": "William Sawaya",
+    "choice2": "Formiga",
+    "choice3": "Marta",
+    "choice4": "Sun Wen",
+    "answer": 1
+  },
+  
+  {
+    "question": "Where were the first Asian Games held?",
+    "choice1": "Jakarta ",
+    "choice2": "Kathmandu",
+    "choice3": "New Delhi",
+    "choice4": "Islamabad",
+    "answer": 3
+  }
+  
+]
